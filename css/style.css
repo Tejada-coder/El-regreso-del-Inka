@@ -186,18 +186,18 @@ footer {
 
 .content-foo h4 {
     color: #ffffff;
-    border-bottom: 3px solid #232526;
+    border-bottom: 3px solid  #1A5276;
     padding-bottom: 5px;
     margin-bottom: 20px;
 }
 
 .content-foo p {
-    color: #cccccc;
+    color: #ffffff;
 }
 
 .titulo-final {
     text-align: center;
     font-size: 24px;
     margin: 20px 0 0 0;
-    color: #9e9797;
+    color:  #ffffff;
 }
